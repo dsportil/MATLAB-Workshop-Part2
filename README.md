@@ -8,24 +8,19 @@
 
 INSA Rennes \- June 13, 2025
 
-
 Daniele Sportillo \- [dsportil@mathworks.com](mailto:dsportil@mathworks.com)
-
 
 <img src="./README_media/image_1.png" width="552" alt="image_1.png">
 
 <!-- Begin Toc -->
 
 ## Table of Contents
-[<img src="./README_media/image_0.png" width="362" alt="image_0.png">](#T_5ed8)
  
 [Workshop: Parallel Computing with MATLAB \- Part I](#T_690b)
  
 &emsp;[Introduction to the Workshop environment](#TMP_937a)
  
 &emsp;[Explicit Parallel Computing with MATLAB on your multicore CPU](#H_524a)
- 
-&emsp;[<img src="./README_media/image_2.png" width="419" alt="image_2.png">](#H_6501)
  
 &emsp;&emsp;[Parallel Pool of MATLAB Workers](#H_5d31)
  
