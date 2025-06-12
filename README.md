@@ -4,7 +4,7 @@
 <img src="./README_media/image_0.png" width="362" alt="image_0.png">
 <a id="T_690b"></a>
 
-# <span style="color:rgb(213,80,0)">Workshop: Parallel Computing with MATLAB \- Part I</span>
+# <span style="color:rgb(213,80,0)">Workshop: Parallel Computing with MATLAB</span>
 
 INSA Rennes \- June 13, 2025
 
